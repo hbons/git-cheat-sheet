@@ -1,0 +1,2055 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1488.189"
+   height="1052.3622"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   version="1.0"
+   sodipodi:docname="git-cheat-sheet.svg"
+   inkscape:export-filename="/Users/hylkebons/git-cheat-sheet.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="display:inline">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="918.25171"
+     inkscape:cy="517.708"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-points="false"
+     gridtolerance="1cm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1272"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     showborder="true"
+     inkscape:grid-bbox="false"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="5px"
+       spacingy="5px"
+       color="#0000ff"
+       empcolor="#3fff3f"
+       opacity="0.2"
+       empopacity="0.37647059"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Drawing"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,287.3622)">
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path36815"
+       d="m 963.804,432.72285 0,-73 155,0 0,72"
+       style="fill:none;stroke:#30bfea;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path36811"
+       d="m 1128.804,432.72285 0,-73 161,0 0,73"
+       style="fill:none;stroke:#fcc310;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none" />
+    <path
+       style="fill:none;stroke:#ab7da6;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none"
+       d="m 790.80404,429.72285 0,-70 162,0 0,70"
+       id="path35638"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#7cc142;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none"
+       d="m 1038.804,454.72285 0,137 245,0 0,-137"
+       id="path36809"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path36790"
+       d="m 1028.534,489.72285 0,102 -65.72996,0 0,-142"
+       style="fill:none;stroke:#30bfea;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none" />
+    <path
+       style="fill:none;stroke:#7cc142;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none"
+       d="m 1048.804,474.72285 0,107 158,0 0,-107"
+       id="path36813"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path36807"
+       d="m 951.80404,454.72285 0,148 342.99996,0 0,-148"
+       style="fill:none;stroke:#30bfea;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none" />
+    <path
+       style="fill:none;stroke:#ed8b1f;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none"
+       d="m 1190.804,443.72285 85,0"
+       id="path36786"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path36788"
+       d="m 1280.804,443.72285 85,0"
+       style="fill:none;stroke:#e23636;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none" />
+    <path
+       style="fill:none;stroke:#30bfea;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none"
+       d="m 950.80404,443.72285 84.99996,0"
+       id="path36782"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path36784"
+       d="m 1110.804,443.72285 85,0"
+       style="fill:none;stroke:#fcc310;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path36780"
+       d="m 790.80404,443.72285 85,0"
+       style="fill:none;stroke:#a87ba4;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:none" />
+    <rect
+       ry="4.3250251"
+       rx="4.3238931"
+       y="428.11517"
+       x="752.92084"
+       height="62.702168"
+       width="76.714584"
+       id="rect35020"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#a87ba4;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" />
+    <rect
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#7179ba;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       id="rect35018"
+       width="76.714584"
+       height="98.459526"
+       x="835.92084"
+       y="428.11517"
+       rx="4.3238931"
+       ry="4.3250251" />
+    <rect
+       ry="4.3250251"
+       rx="4.3238931"
+       y="428.11517"
+       x="1168.0581"
+       height="61.252419"
+       width="76.714584"
+       id="rect34795"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ed8b1f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" />
+    <rect
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#e23636;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       id="rect34797"
+       width="76.714584"
+       height="44.666634"
+       x="1251.1473"
+       y="428.11517"
+       rx="4.3238931"
+       ry="4.3250251" />
+    <rect
+       ry="4.3250251"
+       rx="4.3238931"
+       y="428.11517"
+       x="1334.2365"
+       height="59.838203"
+       width="76.714584"
+       id="rect34799"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" />
+    <rect
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#fcc310;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       id="rect34793"
+       width="76.714584"
+       height="87.666634"
+       x="1084.969"
+       y="428.11517"
+       rx="4.3238931"
+       ry="4.3250251" />
+    <rect
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#7cc142;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       id="rect32812"
+       width="76.714584"
+       height="72.566124"
+       x="1001.8798"
+       y="428.11517"
+       rx="4.3238931"
+       ry="4.3250251" />
+    <g
+       id="g32095"
+       transform="matrix(1.5281309,0,0,1.5281309,-5.51969,138.72468)">
+      <path
+         id="path23084"
+         d="m 87.44816,-217.42626 11.80468,0 0,15.42751 c -0.787,0.2578 -1.58077,0.49525 -2.38129,0.71235 -0.80057,0.20353 -1.63504,0.37992 -2.50341,0.52917 -0.85484,0.13569 -1.75715,0.24424 -2.70693,0.32565 -0.93625,0.0814 -1.93355,0.12212 -2.99188,0.12212 -2.22526,0 -4.19949,-0.32565 -5.9227,-0.97694 -1.70965,-0.66486 -3.1547,-1.6418 -4.33516,-2.93082 -1.16691,-1.30258 -2.05565,-2.90368 -2.66623,-4.80329 -0.61059,-1.91316 -0.91589,-4.11805 -0.91589,-6.61469 0,-2.33378 0.33922,-4.4437 1.01765,-6.32975 0.67843,-1.88602 1.67572,-3.48711 2.99188,-4.80329 1.32971,-1.3297 2.95794,-2.34734 4.88469,-3.05294 1.9403,-0.7191 4.15877,-1.07867 6.6554,-1.0787 1.58751,3e-5 3.14112,0.16964 4.66082,0.50882 1.51966,0.33925 2.91044,0.78023 4.17235,1.32294 l -2.09635,5.04752 c -0.92269,-0.46131 -1.96747,-0.84801 -3.13435,-1.16011 -1.15335,-0.31206 -2.36774,-0.4681 -3.64317,-0.46812 -1.38402,2e-5 -2.63233,0.24426 -3.74494,0.7327 -1.09907,0.47493 -2.04208,1.15336 -2.82905,2.0353 -0.78699,0.88198 -1.39079,1.94711 -1.81141,3.1954 -0.42063,1.24833 -0.63095,2.63911 -0.63094,4.17235 -10e-6,1.46542 0.14246,2.80871 0.42741,4.02987 0.2985,1.20762 0.75983,2.2524 1.384,3.13435 0.62414,0.88197 1.42469,1.56718 2.40164,2.05564 0.9905,0.48848 2.17096,0.73271 3.54141,0.73271 0.89551,0 1.64857,-0.0407 2.25917,-0.12212 0.62414,-0.0814 1.20759,-0.17639 1.75035,-0.28494 l 0,-6.20764 -5.63775,0 0,-5.25105"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" />
+      <path
+         id="path23086"
+         d="m 103.60295,-229.35306 c 0,-0.58342 0.0882,-1.0651 0.26459,-1.44506 0.17638,-0.39345 0.41383,-0.70553 0.71235,-0.93623 0.31207,-0.2442 0.67164,-0.41381 1.0787,-0.50882 0.42062,-0.095 0.8616,-0.14244 1.32294,-0.14247 0.46133,3e-5 0.89552,0.0475 1.30259,0.14247 0.40705,0.095 0.75983,0.26462 1.05835,0.50882 0.31207,0.2307 0.5563,0.54278 0.7327,0.93623 0.18995,0.37996 0.28493,0.86164 0.28494,1.44506 -1e-5,0.56991 -0.095,1.0516 -0.28494,1.44506 -0.1764,0.39351 -0.42063,0.71238 -0.7327,0.95658 -0.29852,0.2307 -0.6513,0.4003 -1.05835,0.50883 -0.40707,0.095 -0.84126,0.14249 -1.30259,0.14247 -0.46134,2e-5 -0.90232,-0.0475 -1.32294,-0.14247 -0.40706,-0.10853 -0.76663,-0.27813 -1.0787,-0.50883 -0.29852,-0.2442 -0.53597,-0.56307 -0.71235,-0.95658 -0.1764,-0.39346 -0.26459,-0.87515 -0.26459,-1.44506 m 6.47222,28.63654 -6.20763,0 0,-22.75455 6.20763,0 0,22.75455"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" />
+      <path
+         id="path23088"
+         d="m 123.88938,-205.25522 c 0.61057,1e-5 1.18724,-0.0678 1.73,-0.20353 0.55629,-0.13568 1.11939,-0.30529 1.68929,-0.50882 l 0,4.62011 c -0.58347,0.29851 -1.30939,0.54274 -2.17776,0.7327 -0.85484,0.20353 -1.79107,0.3053 -2.8087,0.3053 -0.99052,0 -1.91319,-0.11534 -2.768,-0.346 -0.85483,-0.23067 -1.59432,-0.63094 -2.21847,-1.20082 -0.62416,-0.58345 -1.11941,-1.35686 -1.48576,-2.32023 -0.35279,-0.97694 -0.52918,-2.19811 -0.52917,-3.66353 l 0,-10.97021 -2.97153,0 0,-2.62553 3.41929,-2.07599 1.79106,-4.80329 3.96881,0 0,4.84399 5.53599,0 0,4.66082 -5.53599,0 0,10.97021 c -1e-5,0.88197 0.21709,1.53326 0.6513,1.95388 0.43418,0.42063 1.00406,0.63095 1.70964,0.63094"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" />
+      <path
+         id="path23090"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 155.9452,-225.64883 c -1.20762,2e-5 -2.27954,0.23748 -3.21576,0.71235 -0.92267,0.46136 -1.70287,1.133 -2.34058,2.01494 -0.62417,0.86841 -1.09907,1.93355 -1.4247,3.19541 -0.32566,1.24832 -0.48848,2.65267 -0.48847,4.21305 -10e-6,1.58754 0.14246,2.99867 0.42741,4.2334 0.2985,1.23475 0.74626,2.27954 1.34329,3.13435 0.61058,0.84126 1.38398,1.48577 2.32023,1.93352 0.94979,0.43421 2.07598,0.6513 3.37858,0.6513 1.20759,0 2.4152,-0.13568 3.62282,-0.40706 1.22115,-0.27137 2.54409,-0.65807 3.96882,-1.16012 l 0,5.29176 c -0.65132,0.27137 -1.29583,0.50204 -1.93353,0.692 -0.63775,0.18996 -1.28904,0.346 -1.95388,0.46812 -0.66488,0.12211 -1.35009,0.21031 -2.05564,0.26458 -0.69202,0.0679 -1.43829,0.10177 -2.23882,0.10177 -2.29311,0 -4.28091,-0.36635 -5.9634,-1.09906 -1.68252,-0.7327 -3.0733,-1.76392 -4.17235,-3.09364 -1.09906,-1.32972 -1.91318,-2.93081 -2.44235,-4.80329 -0.52918,-1.87245 -0.79376,-3.95523 -0.79376,-6.24834 0,-2.25237 0.30529,-4.3148 0.91588,-6.18728 0.61058,-1.88602 1.50611,-3.50746 2.68658,-4.86435 1.18047,-1.35683 2.63909,-2.4084 4.37588,-3.1547 1.73677,-0.75981 3.73135,-1.13973 5.98375,-1.13976 1.47896,3e-5 2.95794,0.18999 4.43694,0.56988 1.49252,0.36638 2.91722,0.87521 4.27411,1.52647 l -2.03529,5.12893 c -1.11265,-0.52915 -2.23206,-0.99048 -3.35823,-1.384 -1.12622,-0.39346 -2.23206,-0.59021 -3.31753,-0.59023" />
+      <path
+         id="path23092"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 187.1815,-200.71652 -6.20763,0 0,-13.29045 c -2e-5,-1.64178 -0.25782,-2.86974 -0.77341,-3.68387 -0.50206,-0.82767 -1.28225,-1.24151 -2.34059,-1.24153 -0.80056,2e-5 -1.4722,0.16284 -2.01494,0.48847 -0.54275,0.32566 -0.97695,0.80735 -1.30258,1.44505 -0.32566,0.63774 -0.55632,1.42472 -0.692,2.36094 -0.1357,0.93625 -0.20354,2.00817 -0.20353,3.21576 l 0,10.70563 -6.20764,0 0,-31.66912 6.20764,0 0,6.45187 c -1e-5,0.56991 -0.0136,1.17371 -0.0407,1.81141 -0.0271,0.62418 -0.0611,1.20084 -0.10176,1.72999 -0.0543,0.62418 -0.10177,1.23477 -0.14247,1.83177 l 0.32565,0 c 0.66485,-1.18045 1.51288,-2.02849 2.54411,-2.54412 1.0312,-0.52915 2.1981,-0.79374 3.5007,-0.79376 1.12618,2e-5 2.14382,0.16285 3.05293,0.48847 0.92265,0.3121 1.70963,0.80735 2.36094,1.48576 0.65127,0.67845 1.15331,1.54684 1.50612,2.60517 0.35276,1.0448 0.52915,2.2999 0.52917,3.76529 l 0,14.83727" />
+      <path
+         id="path23094"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 200.77183,-219.4819 c -1.09907,2e-5 -2.01495,0.38672 -2.74764,1.16012 -0.71915,0.77342 -1.13299,1.98781 -1.24153,3.64317 l 7.91728,0 c -0.0136,-0.69199 -0.10178,-1.32971 -0.26459,-1.91318 -0.16284,-0.58343 -0.40707,-1.08547 -0.7327,-1.50611 -0.32566,-0.43418 -0.73272,-0.77339 -1.22118,-1.01765 -0.48848,-0.24421 -1.05836,-0.36633 -1.70964,-0.36635 m 0.79376,19.17244 c -1.62824,0 -3.12757,-0.23745 -4.49799,-0.71235 -1.37044,-0.4749 -2.5509,-1.18726 -3.5414,-2.13706 -0.99052,-0.96337 -1.76393,-2.17097 -2.32024,-3.62282 -0.54274,-1.4654 -0.81411,-3.18182 -0.81411,-5.14928 0,-1.99457 0.25102,-3.73814 0.75306,-5.2307 0.50203,-1.49253 1.20081,-2.73405 2.09634,-3.72458 0.9091,-1.00406 1.99458,-1.75711 3.25647,-2.25917 1.27544,-0.50202 2.68657,-0.75304 4.2334,-0.75306 1.50611,2e-5 2.86296,0.23069 4.07059,0.692 1.22115,0.44778 2.25236,1.11265 3.09364,1.99458 0.8548,0.88198 1.50609,1.96747 1.95388,3.25647 0.46131,1.27546 0.69197,2.74087 0.69199,4.39623 l 0,3.01223 -13.88068,0 c 0.0271,0.8684 0.16282,1.65537 0.40706,2.36093 0.2578,0.69201 0.61058,1.28224 1.05835,1.77071 0.46132,0.4749 1.01085,0.84125 1.64859,1.09905 0.65128,0.25781 1.39077,0.38671 2.21846,0.38671 0.69199,0 1.34328,-0.0339 1.95388,-0.10177 0.62414,-0.0814 1.22795,-0.19674 1.81141,-0.346 0.58343,-0.14925 1.1601,-0.33242 1.73,-0.54952 0.56986,-0.23067 1.15331,-0.49525 1.75035,-0.79377 l 0,4.80329 c -0.54277,0.28494 -1.09229,0.52917 -1.64859,0.7327 -0.54276,0.18996 -1.11942,0.35279 -1.72999,0.48847 -0.61061,0.13569 -1.26868,0.23067 -1.97424,0.28494 -0.70558,0.0679 -1.47899,0.10177 -2.32023,0.10177" />
+      <path
+         id="path23096"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 227.04202,-200.71652 -1.20082,-3.09364 -0.18318,0 c -0.44778,0.61059 -0.89554,1.13976 -1.34329,1.58752 -0.44778,0.4342 -0.93625,0.79377 -1.46541,1.07871 -0.52919,0.28494 -1.12621,0.49525 -1.79106,0.63094 -0.6513,0.13568 -1.41114,0.20353 -2.27952,0.20353 -0.92267,0 -1.77749,-0.14247 -2.56447,-0.42741 -0.78698,-0.29851 -1.4722,-0.73949 -2.05564,-1.32294 -0.56989,-0.59702 -1.01765,-1.34329 -1.34329,-2.23882 -0.32565,-0.90909 -0.48847,-1.98101 -0.48847,-3.21576 0,-2.4152 0.77341,-4.19269 2.32023,-5.33246 1.54681,-1.15332 3.86026,-1.79104 6.94034,-1.91318 l 3.62282,-0.12211 0,-1.70965 c -2e-5,-0.93621 -0.27139,-1.62821 -0.81412,-2.07599 -0.54276,-0.44775 -1.3026,-0.67163 -2.27952,-0.67165 -0.97695,2e-5 -1.93354,0.14249 -2.86976,0.42741 -0.92268,0.28496 -1.85213,0.66488 -2.78835,1.13976 l -2.01494,-4.11128 c 1.13976,-0.63771 2.40164,-1.13974 3.78564,-1.50612 1.38399,-0.36633 2.83583,-0.5495 4.35552,-0.54953 2.83583,3e-5 5.0068,0.66489 6.51293,1.99459 1.51967,1.32974 2.27951,3.35146 2.27953,6.06516 l 0,15.16292 -4.33517,0 m -1.83176,-10.54281 -2.05565,0.0814 c -0.82769,0.0271 -1.52648,0.13569 -2.09635,0.32564 -0.56989,0.18997 -1.03122,0.44778 -1.38399,0.77341 -0.33923,0.31209 -0.59025,0.69201 -0.75306,1.13977 -0.14926,0.4342 -0.22389,0.92267 -0.22388,1.4654 -1e-5,0.94981 0.23065,1.62824 0.692,2.0353 0.46132,0.39349 1.06512,0.59023 1.8114,0.59023 0.56987,0 1.09905,-0.095 1.58753,-0.28494 0.48846,-0.20353 0.90908,-0.49525 1.26188,-0.87518 0.36634,-0.39348 0.65128,-0.86838 0.85482,-1.4247 0.20352,-0.56987 0.30528,-1.22117 0.3053,-1.95388 l 0,-1.87247" />
+      <path
+         id="path23098"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 245.00821,-205.25522 c 0.61058,1e-5 1.18724,-0.0678 1.73,-0.20353 0.5563,-0.13568 1.1194,-0.30529 1.68929,-0.50882 l 0,4.62011 c -0.58346,0.29851 -1.30938,0.54274 -2.17776,0.7327 -0.85483,0.20353 -1.79107,0.3053 -2.8087,0.3053 -0.99052,0 -1.91318,-0.11534 -2.76799,-0.346 -0.85483,-0.23067 -1.59432,-0.63094 -2.21847,-1.20082 -0.62416,-0.58345 -1.11942,-1.35686 -1.48576,-2.32023 -0.35279,-0.97694 -0.52918,-2.19811 -0.52918,-3.66353 l 0,-10.97021 -2.97152,0 0,-2.62553 3.41929,-2.07599 1.79105,-4.80329 3.96882,0 0,4.84399 5.53599,0 0,4.66082 -5.53599,0 0,10.97021 c -1e-5,0.88197 0.21708,1.53326 0.65129,1.95388 0.43418,0.42063 1.00407,0.63095 1.70964,0.63094" />
+      <path
+         id="path23100"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 280.72757,-208.9798 c -2e-5,1.32973 -0.23069,2.53055 -0.692,3.60246 -0.44778,1.05836 -1.11264,1.96745 -1.99458,2.72729 -0.86841,0.74628 -1.94033,1.32294 -3.21576,1.73 -1.2619,0.40706 -2.71374,0.61059 -4.35553,0.61059 -1.43828,0 -2.82906,-0.14926 -4.17234,-0.44777 -1.32973,-0.29851 -2.56447,-0.74627 -3.70423,-1.34329 l 0,-5.86164 c 0.65129,0.31209 1.30937,0.61738 1.97423,0.91589 0.66486,0.28494 1.3365,0.54275 2.01494,0.77341 0.69199,0.23067 1.37721,0.41384 2.05564,0.54952 0.69199,0.1357 1.37721,0.20354 2.05565,0.20353 0.69198,1e-5 1.28222,-0.0746 1.7707,-0.22388 0.50203,-0.16282 0.9023,-0.37991 1.20082,-0.65129 0.31207,-0.28494 0.53595,-0.61737 0.67165,-0.99729 0.14924,-0.39349 0.22386,-0.8209 0.22388,-1.28224 -2e-5,-0.5563 -0.12213,-1.04477 -0.36635,-1.46541 -0.23068,-0.43418 -0.56311,-0.83445 -0.9973,-1.20082 -0.42063,-0.37991 -0.93624,-0.74626 -1.54682,-1.09905 -0.59703,-0.35278 -1.26867,-0.72591 -2.01493,-1.11941 -0.62417,-0.32564 -1.32295,-0.71913 -2.09635,-1.18047 -0.77342,-0.46132 -1.50612,-1.0312 -2.19812,-1.70965 -0.67843,-0.69198 -1.24831,-1.51966 -1.70964,-2.48305 -0.46134,-0.97692 -0.692,-2.14382 -0.692,-3.5007 0,-1.3297 0.21709,-2.51695 0.65129,-3.56176 0.44776,-1.05832 1.0787,-1.94707 1.89282,-2.66623 0.81411,-0.73268 1.79784,-1.28899 2.95117,-1.66894 1.1669,-0.37989 2.46948,-0.56985 3.90776,-0.56988 0.71913,3e-5 1.41791,0.0475 2.09635,0.14247 0.69199,0.095 1.37042,0.2307 2.03529,0.40706 0.67842,0.17642 1.35685,0.39352 2.03529,0.65129 0.67841,0.25783 1.3772,0.55634 2.09635,0.89553 l -2.03529,4.90505 c -0.6106,-0.28492 -1.18048,-0.53594 -1.70964,-0.75306 -0.52919,-0.21707 -1.0448,-0.40025 -1.54682,-0.54953 -0.50206,-0.14923 -0.99731,-0.25777 -1.48577,-0.32564 -0.47491,-0.0814 -0.95659,-0.1221 -1.44505,-0.12212 -1.05836,2e-5 -1.87248,0.28497 -2.44235,0.85482 -0.55632,0.55634 -0.83448,1.30261 -0.83447,2.23882 -1e-5,0.50206 0.0814,0.94982 0.24423,1.34329 0.17639,0.37994 0.44776,0.73951 0.81412,1.07871 0.37991,0.33923 0.8616,0.68523 1.44506,1.038 0.597,0.3528 1.31614,0.75307 2.15741,1.20082 1.01763,0.54276 1.95386,1.09907 2.8087,1.66894 0.8548,0.55632 1.58751,1.18048 2.19811,1.87246 0.62414,0.67845 1.10582,1.45186 1.44506,2.32023 0.33919,0.8684 0.5088,1.88605 0.50882,3.05294" />
+      <path
+         id="path23102"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 303.49705,-200.71652 -6.20763,0 0,-13.29045 c -2e-5,-1.64178 -0.25782,-2.86974 -0.77341,-3.68387 -0.50206,-0.82767 -1.28225,-1.24151 -2.34059,-1.24153 -0.80056,2e-5 -1.4722,0.16284 -2.01493,0.48847 -0.54276,0.32566 -0.97695,0.80735 -1.30259,1.44505 -0.32566,0.63774 -0.55632,1.42472 -0.692,2.36094 -0.13569,0.93625 -0.20354,2.00817 -0.20353,3.21576 l 0,10.70563 -6.20763,0 0,-31.66912 6.20763,0 0,6.45187 c -1e-5,0.56991 -0.0136,1.17371 -0.0407,1.81141 -0.0272,0.62418 -0.0611,1.20084 -0.10177,1.72999 -0.0543,0.62418 -0.10177,1.23477 -0.14247,1.83177 l 0.32565,0 c 0.66485,-1.18045 1.51289,-2.02849 2.54411,-2.54412 1.0312,-0.52915 2.1981,-0.79374 3.5007,-0.79376 1.12618,2e-5 2.14382,0.16285 3.05294,0.48847 0.92264,0.3121 1.70962,0.80735 2.36093,1.48576 0.65127,0.67845 1.15331,1.54684 1.50612,2.60517 0.35276,1.0448 0.52915,2.2999 0.52917,3.76529 l 0,14.83727" />
+      <path
+         id="path23104"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 317.08738,-219.4819 c -1.09907,2e-5 -2.01495,0.38672 -2.74764,1.16012 -0.71915,0.77342 -1.13299,1.98781 -1.24153,3.64317 l 7.91728,0 c -0.0136,-0.69199 -0.10178,-1.32971 -0.26459,-1.91318 -0.16283,-0.58343 -0.40707,-1.08547 -0.7327,-1.50611 -0.32566,-0.43418 -0.73272,-0.77339 -1.22117,-1.01765 -0.48849,-0.24421 -1.05837,-0.36633 -1.70965,-0.36635 m 0.79377,19.17244 c -1.62825,0 -3.12758,-0.23745 -4.498,-0.71235 -1.37043,-0.4749 -2.5509,-1.18726 -3.5414,-2.13706 -0.99051,-0.96337 -1.76392,-2.17097 -2.32023,-3.62282 -0.54275,-1.4654 -0.81412,-3.18182 -0.81412,-5.14928 0,-1.99457 0.25102,-3.73814 0.75306,-5.2307 0.50203,-1.49253 1.20081,-2.73405 2.09635,-3.72458 0.90909,-1.00406 1.99457,-1.75711 3.25646,-2.25917 1.27544,-0.50202 2.68657,-0.75304 4.23341,-0.75306 1.5061,2e-5 2.86296,0.23069 4.07058,0.692 1.22115,0.44778 2.25237,1.11265 3.09364,1.99458 0.8548,0.88198 1.50609,1.96747 1.95388,3.25647 0.46131,1.27546 0.69197,2.74087 0.692,4.39623 l 0,3.01223 -13.88069,0 c 0.0271,0.8684 0.16282,1.65537 0.40706,2.36093 0.2578,0.69201 0.61058,1.28224 1.05835,1.77071 0.46133,0.4749 1.01085,0.84125 1.64859,1.09905 0.65128,0.25781 1.39077,0.38671 2.21847,0.38671 0.69198,0 1.34327,-0.0339 1.95388,-0.10177 0.62413,-0.0814 1.22794,-0.19674 1.8114,-0.346 0.58344,-0.14925 1.1601,-0.33242 1.73,-0.54952 0.56986,-0.23067 1.15331,-0.49525 1.75035,-0.79377 l 0,4.80329 c -0.54276,0.28494 -1.09229,0.52917 -1.64858,0.7327 -0.54277,0.18996 -1.11943,0.35279 -1.73,0.48847 -0.61061,0.13569 -1.26868,0.23067 -1.97423,0.28494 -0.70559,0.0679 -1.479,0.10177 -2.32023,0.10177" />
+      <path
+         id="path23106"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 339.34805,-219.4819 c -1.09907,2e-5 -2.01495,0.38672 -2.74764,1.16012 -0.71915,0.77342 -1.13299,1.98781 -1.24153,3.64317 l 7.91728,0 c -0.0136,-0.69199 -0.10178,-1.32971 -0.26459,-1.91318 -0.16284,-0.58343 -0.40707,-1.08547 -0.7327,-1.50611 -0.32567,-0.43418 -0.73272,-0.77339 -1.22118,-1.01765 -0.48848,-0.24421 -1.05836,-0.36633 -1.70964,-0.36635 m 0.79376,19.17244 c -1.62824,0 -3.12757,-0.23745 -4.49799,-0.71235 -1.37044,-0.4749 -2.5509,-1.18726 -3.54141,-2.13706 -0.99051,-0.96337 -1.76392,-2.17097 -2.32023,-3.62282 -0.54274,-1.4654 -0.81412,-3.18182 -0.81411,-5.14928 -1e-5,-1.99457 0.25101,-3.73814 0.75305,-5.2307 0.50204,-1.49253 1.20082,-2.73405 2.09635,-3.72458 0.90909,-1.00406 1.99458,-1.75711 3.25647,-2.25917 1.27544,-0.50202 2.68657,-0.75304 4.2334,-0.75306 1.5061,2e-5 2.86296,0.23069 4.07058,0.692 1.22116,0.44778 2.25237,1.11265 3.09364,1.99458 0.85481,0.88198 1.5061,1.96747 1.95388,3.25647 0.46131,1.27546 0.69198,2.74087 0.692,4.39623 l 0,3.01223 -13.88068,0 c 0.0271,0.8684 0.16282,1.65537 0.40706,2.36093 0.25779,0.69201 0.61058,1.28224 1.05835,1.77071 0.46132,0.4749 1.01085,0.84125 1.64859,1.09905 0.65128,0.25781 1.39076,0.38671 2.21846,0.38671 0.69199,0 1.34328,-0.0339 1.95388,-0.10177 0.62414,-0.0814 1.22794,-0.19674 1.81141,-0.346 0.58343,-0.14925 1.1601,-0.33242 1.73,-0.54952 0.56986,-0.23067 1.15331,-0.49525 1.75035,-0.79377 l 0,4.80329 c -0.54277,0.28494 -1.0923,0.52917 -1.64859,0.7327 -0.54276,0.18996 -1.11943,0.35279 -1.73,0.48847 -0.6106,0.13569 -1.26868,0.23067 -1.97423,0.28494 -0.70558,0.0679 -1.47899,0.10177 -2.32023,0.10177" />
+      <path
+         id="path23108"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         d="m 361.6494,-205.25522 c 0.61058,1e-5 1.18724,-0.0678 1.73,-0.20353 0.5563,-0.13568 1.1194,-0.30529 1.68929,-0.50882 l 0,4.62011 c -0.58346,0.29851 -1.30938,0.54274 -2.17776,0.7327 -0.85483,0.20353 -1.79107,0.3053 -2.8087,0.3053 -0.99052,0 -1.91318,-0.11534 -2.76799,-0.346 -0.85483,-0.23067 -1.59432,-0.63094 -2.21847,-1.20082 -0.62416,-0.58345 -1.11942,-1.35686 -1.48576,-2.32023 -0.35279,-0.97694 -0.52918,-2.19811 -0.52918,-3.66353 l 0,-10.97021 -2.97152,0 0,-2.62553 3.41928,-2.07599 1.79106,-4.80329 3.96882,0 0,4.84399 5.53599,0 0,4.66082 -5.53599,0 0,10.97021 c -1e-5,0.88197 0.21708,1.53326 0.65129,1.95388 0.43418,0.42063 1.00406,0.63095 1.70964,0.63094" />
+    </g>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9124"
+       y="19.426033"
+       x="108.19067"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="19.426033"
+         x="108.19067"
+         id="tspan9126"
+         sodipodi:role="line">From existing repository</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9128"
+       y="-55.546158"
+       x="108.19067"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-55.546158"
+         x="108.19067"
+         id="tspan9130"
+         sodipodi:role="line">From existing data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="114.68913"
+       y="-37.330505"
+       id="text9142"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan9144"
+         x="114.68913"
+         y="-37.330505"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">cd ~/my_project_directory</tspan><tspan
+         id="tspan9146"
+         sodipodi:role="line"
+         x="114.68913"
+         y="-21.730507"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git init</tspan><tspan
+         id="tspan9150"
+         sodipodi:role="line"
+         x="114.68913"
+         y="-6.1305065"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git add . </tspan><tspan
+         id="tspan9148"
+         sodipodi:role="line"
+         x="114.68913"
+         y="9.4694929"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="114.5"
+       y="35.329247"
+       id="text9156"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan16215"
+         sodipodi:role="line"
+         x="114.5"
+         y="35.329247"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git clone ~/existing_repo ~/new/repo</tspan><tspan
+         id="tspan16217"
+         sodipodi:role="line"
+         x="114.5"
+         y="50.929245"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git clone git://host.org/project.git</tspan><tspan
+         id="tspan16225"
+         sodipodi:role="line"
+         x="114.5"
+         y="66.529243"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git clone ssh://user@host.org/project.git</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text4594"
+       y="-193.00713"
+       x="823.76495"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-193.00713"
+         x="823.76495"
+         sodipodi:role="line"
+         id="tspan7525">Global configuration is stored in ~/.gitconfig.</tspan><tspan
+         y="-177.40712"
+         x="823.76495"
+         sodipodi:role="line"
+         id="tspan31908"
+         style="font-weight:bold;fill:#30bfea;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Bold">   git config --help</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9194"
+       y="147.61403"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="147.61403"
+         x="107.92509"
+         id="tspan9196"
+         sodipodi:role="line">Files changed in working directory</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9206"
+       y="444.87744"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="444.87744"
+         x="107.92509"
+         id="tspan9208"
+         sodipodi:role="line">A specific file from a specific ID</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9210"
+       y="192.84506"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="192.84506"
+         x="107.92509"
+         id="tspan9212"
+         sodipodi:role="line">Changes made to tracked files</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="167.63916"
+       id="text9218"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan9220"
+         x="113.91768"
+         y="167.63916"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git status</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="214.0607"
+       id="text9222"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9228"
+         sodipodi:role="line"
+         x="113.91768"
+         y="214.0607"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git diff </tspan><tspan
+         id="tspan9230"
+         sodipodi:role="line"
+         x="113.91768"
+         y="229.66071"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="462.78064"
+       id="text9236"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9240"
+         sodipodi:role="line"
+         x="113.91768"
+         y="462.78064"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git show &lt;ID&gt;:&lt;FILE&gt;</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9259"
+       y="489.06104"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="489.06104"
+         x="107.92509"
+         id="tspan9261"
+         sodipodi:role="line">All local branches</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="507.96423"
+       id="text9263"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9265"
+         sodipodi:role="line"
+         x="113.91768"
+         y="507.96423"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git branch</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9285"
+       y="276.64163"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="276.64163"
+         x="107.92509"
+         id="tspan9287"
+         sodipodi:role="line">History of changes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="293.3573"
+       id="text9289"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9291"
+         sodipodi:role="line"
+         x="113.91768"
+         y="293.3573"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git log </tspan><tspan
+         id="tspan9293"
+         sodipodi:role="line"
+         x="113.91768"
+         y="308.95731"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" /></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9303"
+       y="356.60913"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="356.60913"
+         x="107.92509"
+         id="tspan9305"
+         sodipodi:role="line">Who changed what and when in a file</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="373.60748"
+       id="text9307"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9309"
+         sodipodi:role="line"
+         x="113.91768"
+         y="373.60748"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git blame &lt;FILE&gt;</tspan><tspan
+         id="tspan9311"
+         sodipodi:role="line"
+         x="113.91768"
+         y="389.20749"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" /></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9440"
+       y="239.1199"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="239.1199"
+         x="107.92509"
+         id="tspan9442"
+         sodipodi:role="line">What changed between ID1 and ID2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="255.11829"
+       id="text9444"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9446"
+         sodipodi:role="line"
+         x="113.91768"
+         y="255.11829"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git diff &lt;ID1&gt; &lt;ID2&gt;</tspan><tspan
+         id="tspan9448"
+         sodipodi:role="line"
+         x="113.91768"
+         y="270.71829"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" /></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text2637"
+       y="315.97247"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="315.97247"
+         x="107.92509"
+         id="tspan2639"
+         sodipodi:role="line">History of changes for file with diffs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="332.18814"
+       id="text2641"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan2643"
+         sodipodi:role="line"
+         x="113.91768"
+         y="332.18814"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git log -p &lt;FILE&gt; &lt;DIRECTORY&gt;</tspan><tspan
+         id="tspan2645"
+         sodipodi:role="line"
+         x="113.91768"
+         y="347.78815"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" /></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text16231"
+       y="400.61929"
+       x="107.92509"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="400.61929"
+         x="107.92509"
+         id="tspan16233"
+         sodipodi:role="line">A commit identified by ID</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="113.91768"
+       y="418.52258"
+       id="text16235"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan16237"
+         sodipodi:role="line"
+         x="113.91768"
+         y="418.52258"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git show &lt;ID&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#aaaaaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="129.63074"
+       y="520.60791"
+       id="text16243"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="129.63074"
+         y="520.60791"
+         id="tspan16245">star (*) marks the current branch</tspan></text>
+    <text
+       transform="scale(1.0252054,0.9754143)"
+       sodipodi:linespacing="130%"
+       id="text6651"
+       y="456.59641"
+       x="1339.5264"
+       style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         y="456.59641"
+         x="1339.5264"
+         id="tspan6653"
+         sodipodi:role="line">PUBLISH</tspan></text>
+    <text
+       transform="scale(1.0252054,0.9754143)"
+       sodipodi:linespacing="130%"
+       id="text6609"
+       y="457.13089"
+       x="1258.1472"
+       style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         y="457.13089"
+         x="1258.1472"
+         id="tspan6611"
+         sodipodi:role="line">COMMIT</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text3443"
+       y="471.79419"
+       x="1270.3494"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"
+       transform="scale(1.0149305,0.98528914)"><tspan
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         y="471.79419"
+         x="1270.3494"
+         id="tspan3445"
+         sodipodi:role="line">commit</tspan></text>
+    <text
+       transform="scale(1.0252054,0.9754143)"
+       sodipodi:linespacing="130%"
+       id="text6623"
+       y="457.13043"
+       x="1014.5978"
+       style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         y="457.13043"
+         x="1014.5978"
+         id="tspan6625"
+         sodipodi:role="line">REVERT</tspan></text>
+    <text
+       transform="scale(1.0252054,0.9754143)"
+       sodipodi:linespacing="130%"
+       id="text6637"
+       y="457.88416"
+       x="1177.7844"
+       style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         y="457.88416"
+         x="1177.7844"
+         id="tspan6639"
+         sodipodi:role="line">BRANCH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="853.85388"
+       y="457.13284"
+       id="text6576"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0252054,0.9754143)"><tspan
+         style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         sodipodi:role="line"
+         id="tspan6578"
+         x="853.85388"
+         y="457.13284">BROWSE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="1094.8583"
+       y="457.31433"
+       id="text6595"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0252054,0.9754143)"><tspan
+         sodipodi:role="line"
+         id="tspan6597"
+         x="1094.8583"
+         y="457.31433">UPDATE</tspan></text>
+    <text
+       transform="scale(1.0252054,0.9754143)"
+       sodipodi:linespacing="130%"
+       id="text8178"
+       y="457.13025"
+       x="772.18622"
+       style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         y="457.13025"
+         x="772.18622"
+         id="tspan8180"
+         sodipodi:role="line">CREATE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="861.38745"
+       y="471.43607"
+       id="text3594"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0149305,0.98528914)"><tspan
+         sodipodi:role="line"
+         id="tspan3596"
+         x="861.38745"
+         y="471.43607"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">status</tspan><tspan
+         id="tspan2443"
+         sodipodi:role="line"
+         x="861.38745"
+         y="484.43607"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">log</tspan><tspan
+         sodipodi:role="line"
+         x="861.38745"
+         y="497.43607"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3600">show</tspan><tspan
+         id="tspan2445"
+         sodipodi:role="line"
+         x="861.38745"
+         y="510.43607"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">diff</tspan><tspan
+         id="tspan2435"
+         sodipodi:role="line"
+         x="861.38745"
+         y="523.43604"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">branch</tspan><tspan
+         sodipodi:role="line"
+         x="861.38745"
+         y="536.43604"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3598" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="1106.6279"
+       y="472.86856"
+       id="text3646"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0149305,0.98528914)"><tspan
+         sodipodi:role="line"
+         x="1106.6279"
+         y="472.86856"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3652">pull</tspan><tspan
+         sodipodi:role="line"
+         x="1106.6279"
+         y="485.86856"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3669">fetch</tspan><tspan
+         id="tspan2447"
+         sodipodi:role="line"
+         x="1106.6279"
+         y="498.86856"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">merge</tspan><tspan
+         id="tspan12997"
+         sodipodi:role="line"
+         x="1106.6279"
+         y="511.86856"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">am</tspan><tspan
+         sodipodi:role="line"
+         x="1106.6279"
+         y="524.86853"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3658" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999522999999613%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="1352.7264"
+       y="472.15231"
+       id="text3675"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0149305,0.98528914)"><tspan
+         sodipodi:role="line"
+         x="1352.7264"
+         y="472.15231"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999522999999613%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3688">push</tspan><tspan
+         sodipodi:role="line"
+         x="1352.7264"
+         y="485.15231"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999522999999613%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3690">format-patch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="779.61334"
+       y="473.22668"
+       id="text3483"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0149305,0.98528914)"><tspan
+         sodipodi:role="line"
+         id="tspan3485"
+         x="779.61334"
+         y="473.22668"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">init</tspan><tspan
+         sodipodi:role="line"
+         x="779.61334"
+         y="486.22668"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3592">clone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="1188.4825"
+       y="473.58481"
+       id="text3471"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0149305,0.98528914)"><tspan
+         sodipodi:role="line"
+         id="tspan3473"
+         x="1188.4825"
+         y="473.58481"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">checkout</tspan><tspan
+         sodipodi:role="line"
+         x="1188.4825"
+         y="486.58481"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan35022">branch</tspan></text>
+    <rect
+       ry="4.3250251"
+       rx="4.3238931"
+       y="428.11517"
+       x="918.92084"
+       height="28.823486"
+       width="76.714584"
+       id="rect8184"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.96684742px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="934.68768"
+       y="457.47974"
+       id="text8193"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0252054,0.9754143)"><tspan
+         sodipodi:role="line"
+         id="tspan8195"
+         x="934.68768"
+         y="457.47974">CHANGE</tspan></text>
+    <g
+       id="g31875"
+       transform="translate(43,-78)">
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         x="65.057037"
+         y="-2.1632009"
+         id="text6068"
+         sodipodi:linespacing="130%"><tspan
+           sodipodi:role="line"
+           id="tspan6070"
+           x="65.057037"
+           y="-2.1632009">Create</tspan><tspan
+           id="tspan31852"
+           sodipodi:role="line"
+           x="65.057037"
+           y="21.236797" /></text>
+      <g
+         transform="translate(0,-0.9674001)"
+         id="g31854">
+        <path
+           sodipodi:type="arc"
+           style="font-size:39.50104904px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="path12109"
+           sodipodi:cx="370.35361"
+           sodipodi:cy="747.10162"
+           sodipodi:rx="21.396402"
+           sodipodi:ry="21.396402"
+           d="m 391.75001,747.10162 c 0,11.81691 -9.5795,21.39641 -21.3964,21.39641 -11.81691,0 -21.39641,-9.5795 -21.39641,-21.39641 0,-11.8169 9.5795,-21.3964 21.39641,-21.3964 11.8169,0 21.3964,9.5795 21.3964,21.3964 z"
+           transform="matrix(0.3037894,0,0,0.3037894,-61.50949,-233.96209)"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           y="-15"
+           x="43"
+           height="16"
+           width="16"
+           id="rect12111"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           transform="matrix(0.8189491,0.1271349,-0.1271349,0.8189491,-247.48889,-881.9418)"
+           sodipodi:type="star"
+           style="font-size:14.47948647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="path12114"
+           sodipodi:sides="5"
+           sodipodi:cx="517.90625"
+           sodipodi:cy="988.05878"
+           sodipodi:r1="6.102798"
+           sodipodi:r2="3.5487635"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="1.4137167"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.3"
+           inkscape:randomized="0"
+           d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="130%"
+       id="text16120-7"
+       y="733.50964"
+       x="1441.3435"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="733.50964"
+         x="1441.3435"
+         sodipodi:role="line"
+         id="tspan31844">Made by Hylke Bons based on work by Zack Rusin and Sébastien Pierre. This work is licensed under the Creative Commons Attribution 3.0 License.</tspan></text>
+    <g
+       transform="translate(43,122)"
+       id="g31884">
+      <text
+         sodipodi:linespacing="130%"
+         id="text31886"
+         y="-2.1632009"
+         x="65.057037"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           y="-2.1632009"
+           x="65.057037"
+           sodipodi:role="line"
+           id="tspan31890">Show</tspan></text>
+      <g
+         id="g31892"
+         transform="translate(0,-0.9674001)">
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           transform="matrix(0.3037894,0,0,0.3037894,-61.50949,-233.96209)"
+           d="m 391.75001,747.10162 c 0,11.81691 -9.5795,21.39641 -21.3964,21.39641 -11.81691,0 -21.39641,-9.5795 -21.39641,-21.39641 0,-11.8169 9.5795,-21.3964 21.39641,-21.3964 11.8169,0 21.3964,9.5795 21.3964,21.3964 z"
+           sodipodi:ry="21.396402"
+           sodipodi:rx="21.396402"
+           sodipodi:cy="747.10162"
+           sodipodi:cx="370.35361"
+           id="path31894"
+           style="font-size:39.50104904px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="arc" />
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="rect31896"
+           width="16"
+           height="16"
+           x="43"
+           y="-15" />
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0.3"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.4137167"
+           sodipodi:arg1="0.78539816"
+           sodipodi:r2="3.5487635"
+           sodipodi:r1="6.102798"
+           sodipodi:cy="988.05878"
+           sodipodi:cx="517.90625"
+           sodipodi:sides="5"
+           id="path31898"
+           style="font-size:14.47948647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="star"
+           transform="matrix(0.8189491,0.1271349,-0.1271349,0.8189491,-247.48889,-881.9418)" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="130%"
+       id="text4594-9"
+       y="-193.00713"
+       x="1107.9729"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-193.00713"
+         x="1107.9729"
+         sodipodi:role="line"
+         id="tspan31906-7"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan34929">master</tspan> is the default development branch.</tspan><tspan
+         y="-177.40712"
+         x="1107.9729"
+         sodipodi:role="line"
+         id="tspan31908-9"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan34931">origin</tspan> is the default upstream repository.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="437.92508"
+       y="-52.385971"
+       id="text32144"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan32146"
+         x="437.92508"
+         y="-52.385971">Return to the last commited state</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="437.92508"
+       y="2.8450623"
+       id="text32152"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan32154"
+         x="437.92508"
+         y="2.8450623">Revert the last commit</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32156"
+       y="-32.36084"
+       x="443.91766"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="-32.36084"
+         x="443.91766"
+         id="tspan32158"
+         sodipodi:role="line">git reset --hard</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32160"
+       y="24.060699"
+       x="443.91766"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="24.060699"
+         x="443.91766"
+         sodipodi:role="line"
+         id="tspan32162">git revert HEAD </tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="39.660698"
+         x="443.91766"
+         sodipodi:role="line"
+         id="tspan32164" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="437.92508"
+       y="108.64163"
+       id="text32178"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan32180"
+         x="437.92508"
+         y="108.64163">Fix the last commit</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32182"
+       y="125.3573"
+       x="443.91766"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="125.3573"
+         x="443.91766"
+         sodipodi:role="line"
+         id="tspan32186">git commit -a --amend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="437.92508"
+       y="59.119904"
+       id="text32198"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan32200"
+         x="437.92508"
+         y="59.119904">Revert specific commit</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32202"
+       y="75.118294"
+       x="443.91766"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="75.118294"
+         x="443.91766"
+         sodipodi:role="line"
+         id="tspan32206">git revert &lt;ID&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="437.92508"
+       y="160.97247"
+       id="text32208"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan32210"
+         x="437.92508"
+         y="160.97247">Checkout the ID version of a file</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32212"
+       y="177.18814"
+       x="443.91766"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="177.18814"
+         x="443.91766"
+         sodipodi:role="line"
+         id="tspan32216">git checkout &lt;ID&gt; &lt;FILE&gt;</tspan></text>
+    <g
+       id="g32246"
+       transform="translate(373,-78)">
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         x="65.057037"
+         y="-2.1632009"
+         id="text32248"
+         sodipodi:linespacing="130%"><tspan
+           id="tspan32250"
+           sodipodi:role="line"
+           x="65.057037"
+           y="-2.1632009">Revert</tspan></text>
+      <g
+         transform="translate(0,-0.9674001)"
+         id="g32252">
+        <path
+           sodipodi:type="arc"
+           style="font-size:39.50104904px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="path32254"
+           sodipodi:cx="370.35361"
+           sodipodi:cy="747.10162"
+           sodipodi:rx="21.396402"
+           sodipodi:ry="21.396402"
+           d="m 391.75001,747.10162 c 0,11.81691 -9.5795,21.39641 -21.3964,21.39641 -11.81691,0 -21.39641,-9.5795 -21.39641,-21.39641 0,-11.8169 9.5795,-21.3964 21.39641,-21.3964 11.8169,0 21.3964,9.5795 21.3964,21.3964 z"
+           transform="matrix(0.3037894,0,0,0.3037894,-61.50949,-233.96209)"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           y="-15"
+           x="43"
+           height="16"
+           width="16"
+           id="rect32256"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           transform="matrix(0.8189491,0.1271349,-0.1271349,0.8189491,-247.48889,-881.9418)"
+           sodipodi:type="star"
+           style="font-size:14.47948647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="path32258"
+           sodipodi:sides="5"
+           sodipodi:cx="517.90625"
+           sodipodi:cy="988.05878"
+           sodipodi:r1="6.102798"
+           sodipodi:r2="3.5487635"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="1.4137167"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.3"
+           inkscape:randomized="0"
+           d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#aaaaaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="459.63074"
+       y="-19.39209"
+       id="text32266"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="459.63074"
+         y="-19.39209"
+         id="tspan32268">This cannot be undone!</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32274"
+       y="37.60791"
+       x="459.63074"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#aaaaaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan32276"
+         y="37.60791"
+         x="459.63074"
+         sodipodi:role="line">Creates a new commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#aaaaaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="459.63074"
+       y="87.60791"
+       id="text32278"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="459.63074"
+         y="87.60791"
+         id="tspan32280">Creates a new commit</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32282"
+       y="139.60791"
+       x="459.63074"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#aaaaaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan32284"
+         y="139.60791"
+         x="459.63074"
+         sodipodi:role="line">(after editing the broken files)</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32286"
+       y="259.61401"
+       x="437.92508"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="259.61401"
+         x="437.92508"
+         id="tspan32288"
+         sodipodi:role="line">Fetch latest changes from origin</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32290"
+       y="314.84506"
+       x="437.92508"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="314.84506"
+         x="437.92508"
+         id="tspan32292"
+         sodipodi:role="line">Pull latest changes from origin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="443.91766"
+       y="279.63916"
+       id="text32294"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan32296"
+         x="443.91766"
+         y="279.63916"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git fetch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="443.91766"
+       y="336.0607"
+       id="text32298"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan32302"
+         sodipodi:role="line"
+         x="443.91766"
+         y="336.0607"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git pull</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="443.91766"
+       y="415.3573"
+       id="text32308"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan32310"
+         sodipodi:role="line"
+         x="443.91766"
+         y="415.3573"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git am --resolved</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32312"
+       y="371.1199"
+       x="437.92508"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="371.1199"
+         x="437.92508"
+         id="tspan32314"
+         sodipodi:role="line">Apply a patch that someone sent you</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="443.91766"
+       y="387.11829"
+       id="text32316"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan32318"
+         sodipodi:role="line"
+         x="443.91766"
+         y="387.11829"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git am -3 patch.mbox</tspan></text>
+    <g
+       transform="translate(373,234)"
+       id="g32328">
+      <text
+         sodipodi:linespacing="130%"
+         id="text32330"
+         y="-2.1632009"
+         x="65.057037"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           y="-2.1632009"
+           x="65.057037"
+           sodipodi:role="line"
+           id="tspan32332">Update</tspan></text>
+      <g
+         id="g32334"
+         transform="translate(0,-0.9674001)">
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           transform="matrix(0.3037894,0,0,0.3037894,-61.50949,-233.96209)"
+           d="m 391.75001,747.10162 c 0,11.81691 -9.5795,21.39641 -21.3964,21.39641 -11.81691,0 -21.39641,-9.5795 -21.39641,-21.39641 0,-11.8169 9.5795,-21.3964 21.39641,-21.3964 11.8169,0 21.3964,9.5795 21.3964,21.3964 z"
+           sodipodi:ry="21.396402"
+           sodipodi:rx="21.396402"
+           sodipodi:cy="747.10162"
+           sodipodi:cx="370.35361"
+           id="path32336"
+           style="font-size:39.50104904px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="arc" />
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="rect32338"
+           width="16"
+           height="16"
+           x="43"
+           y="-15" />
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0.3"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.4137167"
+           sodipodi:arg1="0.78539816"
+           sodipodi:r2="3.5487635"
+           sodipodi:r1="6.102798"
+           sodipodi:cy="988.05878"
+           sodipodi:cx="517.90625"
+           sodipodi:sides="5"
+           id="path32340"
+           style="font-size:14.47948647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="star"
+           transform="matrix(0.8189491,0.1271349,-0.1271349,0.8189491,-247.48889,-881.9418)" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32342"
+       y="292.60791"
+       x="459.63074"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#aaaaaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan32344"
+         y="292.60791"
+         x="459.63074"
+         sodipodi:role="line">(this does not merge them)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#aaaaaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="459.63074"
+       y="349.60791"
+       id="text32346"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="459.63074"
+         y="349.60791"
+         id="tspan32348">(does a fetch followed by a merge)</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text32350"
+       y="399.60791"
+       x="459.63074"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#aaaaaa;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="399.60791"
+         x="459.63074"
+         sodipodi:role="line"
+         id="tspan32360">In case of conflict, resolve the conflict and</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9194-0-8"
+       y="493.47766"
+       x="438.3649"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="493.47766"
+         x="438.3649"
+         id="tspan9196-2-1"
+         sodipodi:role="line">Commit all your local changes</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9210-3-5"
+       y="538.70868"
+       x="438.3649"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="538.70868"
+         x="438.3649"
+         id="tspan9212-9-3"
+         sodipodi:role="line">Prepare a patch for other developers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="444.35748"
+       y="513.50281"
+       id="text9218-9-5"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan9220-7-4"
+         x="444.35748"
+         y="513.50281"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git commit -a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="444.35748"
+       y="559.92432"
+       id="text9222-0-3"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9230-9-5"
+         sodipodi:role="line"
+         x="444.35748"
+         y="559.92432"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git format-patch origin</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9285-8-9"
+       y="622.50525"
+       x="438.3649"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="622.50525"
+         x="438.3649"
+         id="tspan9287-6-5"
+         sodipodi:role="line">Make a version or milestone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="444.35748"
+       y="639.22095"
+       id="text9289-5-4"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9293-6-1"
+         sodipodi:role="line"
+         x="444.35748"
+         y="639.22095"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git tag v1.0</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9440-2-7"
+       y="584.98352"
+       x="438.3649"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="584.98352"
+         x="438.3649"
+         id="tspan9442-7-5"
+         sodipodi:role="line">Push changes to origin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="444.35748"
+       y="600.98199"
+       id="text9444-0-5"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9448-9-1"
+         sodipodi:role="line"
+         x="444.35748"
+         y="600.98199"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git push</tspan></text>
+    <g
+       transform="translate(373.4398,467.8636)"
+       id="g31884-9-8">
+      <text
+         sodipodi:linespacing="130%"
+         id="text31886-9-8"
+         y="-2.1632009"
+         x="65.057037"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           y="-2.1632009"
+           x="65.057037"
+           sodipodi:role="line"
+           id="tspan31890-1-3">Publish</tspan></text>
+      <g
+         id="g31892-7-5"
+         transform="translate(0,-0.9674001)">
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           transform="matrix(0.3037894,0,0,0.3037894,-61.50949,-233.96209)"
+           d="m 391.75001,747.10162 c 0,11.81691 -9.5795,21.39641 -21.3964,21.39641 -11.81691,0 -21.39641,-9.5795 -21.39641,-21.39641 0,-11.8169 9.5795,-21.3964 21.39641,-21.3964 11.8169,0 21.3964,9.5795 21.3964,21.3964 z"
+           sodipodi:ry="21.396402"
+           sodipodi:rx="21.396402"
+           sodipodi:cy="747.10162"
+           sodipodi:cx="370.35361"
+           id="path31894-2-2"
+           style="font-size:39.50104904px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="arc" />
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="rect31896-3-2"
+           width="16"
+           height="16"
+           x="43"
+           y="-15" />
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0.3"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.4137167"
+           sodipodi:arg1="0.78539816"
+           sodipodi:r2="3.5487635"
+           sodipodi:r1="6.102798"
+           sodipodi:cy="988.05878"
+           sodipodi:cx="517.90625"
+           sodipodi:sides="5"
+           id="path31898-6-6"
+           style="font-size:14.47948647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="star"
+           transform="matrix(0.8189491,0.1271349,-0.1271349,0.8189491,-247.48889,-881.9418)" />
+      </g>
+    </g>
+    <g
+       id="g31928-6"
+       transform="translate(690.83404,299.57755)">
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         x="65.057037"
+         y="-2.1632009"
+         id="text31930-7"
+         sodipodi:linespacing="130%"><tspan
+           id="tspan31932-8"
+           sodipodi:role="line"
+           x="65.057037"
+           y="-2.1632009">Workflow</tspan></text>
+      <g
+         transform="translate(0,-0.9674001)"
+         id="g31934-4">
+        <path
+           sodipodi:type="arc"
+           style="font-size:39.50104904px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="path31936-1"
+           sodipodi:cx="370.35361"
+           sodipodi:cy="747.10162"
+           sodipodi:rx="21.396402"
+           sodipodi:ry="21.396402"
+           d="m 391.75001,747.10162 c 0,11.81691 -9.5795,21.39641 -21.3964,21.39641 -11.81691,0 -21.39641,-9.5795 -21.39641,-21.39641 0,-11.8169 9.5795,-21.3964 21.39641,-21.3964 11.8169,0 21.3964,9.5795 21.3964,21.3964 z"
+           transform="matrix(0.3037894,0,0,0.3037894,-61.50949,-233.96209)"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           y="-15"
+           x="43"
+           height="16"
+           width="16"
+           id="rect31938-7"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           transform="matrix(0.8189491,0.1271349,-0.1271349,0.8189491,-247.48889,-881.9418)"
+           sodipodi:type="star"
+           style="font-size:14.47948647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="path31940-1"
+           sodipodi:sides="5"
+           sodipodi:cx="517.90625"
+           sodipodi:cy="988.05878"
+           sodipodi:r1="6.102798"
+           sodipodi:r2="3.5487635"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="1.4137167"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.3"
+           inkscape:randomized="0"
+           d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="1024.7488"
+       y="472.51044"
+       id="text3614"
+       sodipodi:linespacing="130%"
+       transform="scale(1.0149305,0.98528914)"><tspan
+         sodipodi:role="line"
+         x="1024.7488"
+         y="472.51044"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3622">reset</tspan><tspan
+         sodipodi:role="line"
+         x="1024.7488"
+         y="485.51044"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3633">checkout</tspan><tspan
+         sodipodi:role="line"
+         x="1024.7488"
+         y="498.51044"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         id="tspan3635">revert</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9194-0-8-7"
+       y="-52.384369"
+       x="755.39709"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-52.384369"
+         x="755.39709"
+         id="tspan9196-2-1-7"
+         sodipodi:role="line">Switch to a branch</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9210-3-5-4"
+       y="-7.1533508"
+       x="755.39709"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-7.1533508"
+         x="755.39709"
+         id="tspan9212-9-3-4"
+         sodipodi:role="line">Merge BRANCH1 into BRANCH2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="761.38965"
+       y="-32.359222"
+       id="text9218-9-5-9"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan9220-7-4-1"
+         x="761.38965"
+         y="-32.359222"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git checkout &lt;BRANCH&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="761.38965"
+       y="14.062256"
+       id="text9222-0-3-5"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9230-9-5-5"
+         sodipodi:role="line"
+         x="761.38965"
+         y="14.062256"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git checkout &lt;BRANCH2&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="761.38965"
+         y="29.662254"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="tspan34487">git merge &lt;BRANCH1&gt;</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9285-8-9-5"
+       y="90.643188"
+       x="755.39709"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="90.643188"
+         x="755.39709"
+         id="tspan9287-6-5-8"
+         sodipodi:role="line">Create branch BRANCH based on OTHER</tspan><tspan
+         y="106.24319"
+         x="755.39709"
+         sodipodi:role="line"
+         id="tspan34489">and switch to it</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="761.38965"
+       y="121.35889"
+       id="text9289-5-4-2"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9293-6-1-9"
+         sodipodi:role="line"
+         x="761.38965"
+         y="121.35889"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git checkout -b &lt;BRANCH&gt; &lt;OTHER&gt;</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text9440-2-7-8"
+       y="53.12149"
+       x="755.39709"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="53.12149"
+         x="755.39709"
+         id="tspan9442-7-5-2"
+         sodipodi:role="line">Create branch BRANCH based on HEAD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="761.38965"
+       y="69.119957"
+       id="text9444-0-5-0"
+       sodipodi:linespacing="130%"><tspan
+         id="tspan9448-9-1-7"
+         sodipodi:role="line"
+         x="761.38965"
+         y="69.119957"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git branch &lt;BRANCH&gt;</tspan></text>
+    <g
+       transform="translate(690.47196,-77.998444)"
+       id="g31884-9-8-4">
+      <text
+         sodipodi:linespacing="130%"
+         id="text31886-9-8-8"
+         y="-2.1632009"
+         x="65.057037"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           y="-2.1632009"
+           x="65.057037"
+           sodipodi:role="line"
+           id="tspan31890-1-3-5">Branch</tspan></text>
+      <g
+         id="g31892-7-5-8"
+         transform="translate(0,-0.9674001)">
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           transform="matrix(0.3037894,0,0,0.3037894,-61.50949,-233.96209)"
+           d="m 391.75001,747.10162 c 0,11.81691 -9.5795,21.39641 -21.3964,21.39641 -11.81691,0 -21.39641,-9.5795 -21.39641,-21.39641 0,-11.8169 9.5795,-21.3964 21.39641,-21.3964 11.8169,0 21.3964,9.5795 21.3964,21.3964 z"
+           sodipodi:ry="21.396402"
+           sodipodi:rx="21.396402"
+           sodipodi:cy="747.10162"
+           sodipodi:cx="370.35361"
+           id="path31894-2-2-3"
+           style="font-size:39.50104904px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="arc" />
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="rect31896-3-2-0"
+           width="16"
+           height="16"
+           x="43"
+           y="-15" />
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0.3"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.4137167"
+           sodipodi:arg1="0.78539816"
+           sodipodi:r2="3.5487635"
+           sodipodi:r1="6.102798"
+           sodipodi:cy="988.05878"
+           sodipodi:cx="517.90625"
+           sodipodi:sides="5"
+           id="path31898-6-6-6"
+           style="font-size:14.47948647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="star"
+           transform="matrix(0.8189491,0.1271349,-0.1271349,0.8189491,-247.48889,-881.9418)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="755.39709"
+       y="145.61563"
+       id="text34491"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan34493"
+         x="755.39709"
+         y="145.61563">Delete branch BRANCH</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text34495"
+       y="165.64078"
+       x="761.38965"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="165.64078"
+         x="761.38965"
+         id="tspan34497"
+         sodipodi:role="line">git branche -d &lt;BRANCH&gt;</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text34863"
+       y="-50.384369"
+       x="1086.3971"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-50.384369"
+         x="1086.3971"
+         id="tspan34865"
+         sodipodi:role="line">View merge conflicts</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text34867"
+       y="-9.1533508"
+       x="1086.3971"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-9.1533508"
+         x="1086.3971"
+         id="tspan34869"
+         sodipodi:role="line">View merge conflicts against base file</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="1092.3896"
+       y="-30.359224"
+       id="text34871"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan34873"
+         x="1092.3896"
+         y="-30.359224"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git diff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="1092.3896"
+       y="12.062225"
+       id="text34875"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="1092.3896"
+         y="12.062225"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="tspan34877">git diff --base &lt;FILE&gt;</tspan></text>
+    <g
+       transform="translate(1021.472,-75.998444)"
+       id="g34879">
+      <text
+         sodipodi:linespacing="130%"
+         id="text34881"
+         y="-2.1632009"
+         x="65.057037"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           y="-2.1632009"
+           x="65.057037"
+           sodipodi:role="line"
+           id="tspan34883">Resolve merge conflicts</tspan></text>
+      <g
+         id="g34885"
+         transform="translate(0,-0.9674001)">
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           transform="matrix(0.3037894,0,0,0.3037894,-61.50949,-233.96209)"
+           d="m 391.75001,747.10162 c 0,11.81691 -9.5795,21.39641 -21.3964,21.39641 -11.81691,0 -21.39641,-9.5795 -21.39641,-21.39641 0,-11.8169 9.5795,-21.3964 21.39641,-21.3964 11.8169,0 21.3964,9.5795 21.3964,21.3964 z"
+           sodipodi:ry="21.396402"
+           sodipodi:rx="21.396402"
+           sodipodi:cy="747.10162"
+           sodipodi:cx="370.35361"
+           id="path34887"
+           style="font-size:39.50104904px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#009bce;fill-opacity:1;stroke:#009bce;stroke-width:3.29175377;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="arc" />
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#5ed0f2;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           id="rect34889"
+           width="16"
+           height="16"
+           x="43"
+           y="-15" />
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/Users/hylkebons/mit.png"
+           d="m 522.22158,992.37411 c -0.81596,0.81596 -2.62044,-0.99078 -3.76018,-0.81026 -1.13974,0.18052 -2.29759,2.45644 -3.32576,1.93256 -1.02818,-0.52388 0.13252,-2.79835 -0.39136,-3.82653 -0.52388,-1.02817 -3.04621,-1.42605 -2.86569,-2.56579 0.18051,-1.13974 2.70234,-0.7387 3.51831,-1.55467 0.81596,-0.81596 0.41492,-3.33779 1.55466,-3.51831 1.13974,-0.18051 1.53762,2.34181 2.56579,2.8657 1.02818,0.52388 3.30265,-0.63682 3.82653,0.39135 0.52388,1.02818 -1.75204,2.18603 -1.93256,3.32577 -0.18051,1.13974 1.62622,2.94421 0.81026,3.76018 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0.3"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.4137167"
+           sodipodi:arg1="0.78539816"
+           sodipodi:r2="3.5487635"
+           sodipodi:r1="6.102798"
+           sodipodi:cy="988.05878"
+           sodipodi:cx="517.90625"
+           sodipodi:sides="5"
+           id="path34891"
+           style="font-size:14.47948647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           sodipodi:type="star"
+           transform="matrix(0.8189491,0.1271349,-0.1271349,0.8189491,-247.48889,-881.9418)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="1086.3971"
+       y="33.846649"
+       id="text34893"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan34895"
+         x="1086.3971"
+         y="33.846649">View merge conflicts against your changes</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text34897"
+       y="55.062233"
+       x="1092.3896"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         id="tspan34899"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="55.062233"
+         x="1092.3896"
+         sodipodi:role="line">git diff --ours &lt;FILE&gt;</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text34901"
+       y="76.846649"
+       x="1086.3971"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="76.846649"
+         x="1086.3971"
+         id="tspan34903"
+         sodipodi:role="line">View merge conflicts against other changes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="1092.3896"
+       y="98.062233"
+       id="text34905"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="1092.3896"
+         y="98.062233"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="tspan34907">git diff --theirs &lt;FILE&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="1086.3971"
+       y="119.84665"
+       id="text34909"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         id="tspan34911"
+         x="1086.3971"
+         y="119.84665">Discard a conflicting patch</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text34913"
+       y="141.06223"
+       x="1092.3896"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"><tspan
+         id="tspan34915"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="141.06223"
+         x="1092.3896"
+         sodipodi:role="line">git reset --hard</tspan><tspan
+         id="tspan34917"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="156.66223"
+         x="1092.3896"
+         sodipodi:role="line">git rebase --skip</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text34919"
+       y="178.84665"
+       x="1086.3971"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="178.84665"
+         x="1086.3971"
+         id="tspan34921"
+         sodipodi:role="line">After resolving conflicts, merge with</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="1092.3896"
+       y="200.06223"
+       id="text34923"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="1092.3896"
+         y="200.06223"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="tspan34925">git add &lt;CONFLICTING_FILE&gt;</tspan><tspan
+         id="tspan34927"
+         sodipodi:role="line"
+         x="1092.3896"
+         y="215.66223"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">git rebase --continue</tspan></text>
+    <text
+       sodipodi:linespacing="130%"
+       id="text4594-2"
+       y="-193.00713"
+       x="639.34943"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-193.00713"
+         x="639.34943"
+         sodipodi:role="line"
+         id="tspan7513-2">Remember!</tspan><tspan
+         y="-177.40712"
+         x="639.34943"
+         sodipodi:role="line"
+         id="tspan31908-7"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#30bfea;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">   git &lt;COMMAND&gt; --help</tspan></text>
+  </g>
+</svg>
