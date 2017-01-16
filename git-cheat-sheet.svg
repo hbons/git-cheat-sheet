@@ -1830,7 +1830,7 @@
          y="70.64003"
          x="798.16028"
          id="tspan34497"
-         sodipodi:role="line">git branche -d &lt;BRANCH&gt;</tspan></text>
+         sodipodi:role="line">git branch -d &lt;BRANCH&gt;</tspan></text>
     <text
        sodipodi:linespacing="130%"
        id="text34863"
